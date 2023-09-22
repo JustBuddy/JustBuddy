@@ -12,6 +12,7 @@ I do:
 - **Community Management**
 - **Discord Administration**
 - **UI/UX Design**
+- **Unity things**
 - *Can't code for sh***t*
 
 > [!NOTE]
