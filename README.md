@@ -1,6 +1,7 @@
 ### Greetings 👋
 
 Name's Buddy, I work on various things, wherever my smoothbrain carries me.
+
 Have a lovely day 💖
 
 Current projects:
