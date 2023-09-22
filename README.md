@@ -12,7 +12,7 @@ I do:
 - **Community Management**
 - **Discord Administration**
 - **UI/UX Design**
-- *Can't code for sh*t*
+- *Can't code for sh***t*
 
 > [!NOTE]
 > Visit all my things at https://buddyworks.wtf
