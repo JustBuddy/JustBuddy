@@ -16,4 +16,4 @@ I do:
 - *Can't code for sh***t* 😱
 
 > [!NOTE]
-> Visit all my things at https://buddyworks.wtf
+> Look at all my things at https://buddyworks.wtf
