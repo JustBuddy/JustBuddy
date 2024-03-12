@@ -25,5 +25,10 @@ Have a lovely day! 💖
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-087cd5?style=flat-square&logo=windows11&logoColor=FFFFFF)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+![1Password](https://img.shields.io/badge/-1Password-ffffff?style=flat-square&logo=1password&logoColor=000000)
+![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-3e3e3e?style=flat-square&logo=windowsterminal)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-494949?style=flat-square&logo=sublimetext)
+![Signal](https://img.shields.io/badge/-Signal-3071f3?style=flat-square&logo=signal&logoColor=FFFFFF)
+
 > [!NOTE]
 > Look at all my things at https://buddy.moe
