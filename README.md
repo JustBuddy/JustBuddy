@@ -13,6 +13,7 @@ Have a lovely day! 💖
 - **Discord Administration** 🤵
 - **UI/UX Design** 📊
 - **Unity things** 🖥️
+- **Blender modeling** 🛠️
 - *Can't code for sh***t* 😱
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
