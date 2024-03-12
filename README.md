@@ -20,7 +20,7 @@ And various other things.
 - *Can't code for sh***t* 😱
 
 
-##Funky badges to look at
+## Funky badges to look at
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Unity](https://img.shields.io/badge/-Unity-181717?style=flat-square&logo=unity)
 ![Blender](https://img.shields.io/badge/-Blender-e37200?style=flat-square&logo=blender&logoColor=FFFFFF)
