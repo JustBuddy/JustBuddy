@@ -8,7 +8,7 @@ Have a lovely day! 💖
 - **BUDDYWORKS** - A VRChat-centric community with a creator focus. 🔧
 - **Schnitzeltreff** - Gaming Community *(kinda dead though, but we do LAN-Parties!)* 🎮
 - **Peugeot Citroën** - Discord of r/peugeot and our friends of r/Citroen. 🚗
-- 
+  
 And various other things.
 
 ## Things I do
