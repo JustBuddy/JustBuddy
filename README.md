@@ -36,5 +36,5 @@ And various other things.
 > [!NOTE]
 > Look at all my things at https://buddy.moe
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustBuddy&include_all_commits=true&count_private=true&theme=radical" alt="my Github Stats"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBuddy&layout=compact&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustBuddy&include_all_commits=true&count_private=true&theme=github_dark" alt="my Github Stats"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBuddy&layout=compact&theme=github_dark"/>
 
