@@ -8,16 +8,18 @@ Have a lovely day! 💖
 - **BUDDYWORKS** - A VRChat-centric community with a creator focus. 🔧
 - **Schnitzeltreff** - Gaming Community *(kinda dead though, but we do LAN-Parties!)* 🎮
 - **Peugeot Citroën** - Discord of r/peugeot and our friends of r/Citroen. 🚗
-  
+
 And various other things.
 
 ## Things I do
-- **Community Management** 😎
+- **Community Management** 😎 
 - **Discord Administration** 🤵
-- **UI/UX Design** 📊
-- **Unity things** 🖥️
+- **UI/UX Design** 📊 
+- **Unity things** 🖥️ 
 - **Blender modeling** 🛠️
 - *Can't code for sh***t* 😱
+
+
 
 
 ## Funky badges to look at
@@ -31,10 +33,13 @@ And various other things.
 ![1Password](https://img.shields.io/badge/-1Password-ffffff?style=flat-square&logo=1password&logoColor=000000)
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-3e3e3e?style=flat-square&logo=windowsterminal)
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-494949?style=flat-square&logo=sublimetext)
-![Signal](https://img.shields.io/badge/-Signal-3071f3?style=flat-square&logo=signal&logoColor=FFFFFF)
+![Signal](https://img.shields.io/badge/-Signal-3071f3?style=flat-square&logo=signal&logoColor=FFFFFF)  
+
+<img align="auto" width="32%" src="https://github-readme-stats.vercel.app/api?username=JustBuddy&include_all_commits=true&count_private=true&theme=github_dark" alt="my Github Stats"/><img align="auto" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBuddy&layout=compact&theme=github_dark"/>  
+
 
 > [!NOTE]
 > Look at all my things at https://buddy.moe
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustBuddy&include_all_commits=true&count_private=true&theme=github_dark" alt="my Github Stats"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBuddy&layout=compact&theme=github_dark"/>
+
 
