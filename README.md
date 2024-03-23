@@ -35,3 +35,6 @@ And various other things.
 
 > [!NOTE]
 > Look at all my things at https://buddy.moe
+
+<img src="https://myreadme.vercel.app/api/embed/JustBuddy?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
