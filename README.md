@@ -4,6 +4,8 @@ Name's Buddy, I work on various things, wherever my smoothbrain carries me. 🧠
 
 Have a lovely day! 💖
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JustBuddy.JustBuddy)
+
 ## Current projects
 - **BUDDYWORKS** - A VRChat-centric community with a creator focus. 🔧
 - **Schnitzeltreff** - Gaming Community *(kinda dead though, but we do LAN-Parties!)* 🎮
