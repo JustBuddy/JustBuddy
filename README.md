@@ -35,7 +35,7 @@ And various other things.
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-494949?style=flat-square&logo=sublimetext)
 ![Signal](https://img.shields.io/badge/-Signal-3071f3?style=flat-square&logo=signal&logoColor=FFFFFF)  
 
-<img align="auto" width="32%" src="https://github-readme-stats.vercel.app/api?username=JustBuddy&include_all_commits=true&count_private=true&theme=github_dark" alt="my Github Stats"/><img align="auto" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBuddy&layout=compact&theme=github_dark"/>  
+<img align="auto" width="42%" src="https://github-readme-stats.vercel.app/api?username=JustBuddy&include_all_commits=true&count_private=true&theme=github_dark" alt="my Github Stats"/><img align="auto" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBuddy&layout=compact&theme=github_dark"/>  
 
 
 > [!NOTE]
