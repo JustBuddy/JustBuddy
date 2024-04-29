@@ -17,6 +17,7 @@ And various other things.
 - **UI/UX Design** 📊 
 - **Unity things** 🖥️ 
 - **Blender modeling** 🛠️
+- **Translation work** 📋(German <-> Englisch)
 - *Can't code for sh***t* 😱
 
 
