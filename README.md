@@ -18,7 +18,7 @@ And various other things.
 - **Unity things** 🖥️ 
 - **Blender modeling** 🛠️
 - **Translation work** 📋(German <-> Englisch)
-- *Can't code for sh***t* 😱
+- **Codes things sometimes** 👨‍💻
 
 
 
