@@ -5,20 +5,20 @@ Name's Buddy, I work on various things, wherever my smoothbrain carries me. 🧠
 Have a lovely day! 💖
 
 ## Current projects
-- **BUDDYWORKS** - A VRChat-centric community with a creator focus. 🔧
-- **Schnitzeltreff** - Gaming Community *(kinda dead though, but we do LAN-Parties!)* 🎮
-- **Peugeot Citroën** - Discord of r/peugeot and our friends of r/Citroen. 🚗
+- **BUDDYWORKS** - A VRChat-centric community with a creator focus.
+- **Schnitzeltreff** - Gaming Community *(kinda dead though, but we do LAN-Parties!)*
+- **Peugeot Citroën** - Discord of r/peugeot and our friends of r/Citroen.
 
 And various other things.
 
 ## Things I do
-- **Community Management** 😎 
-- **Discord Administration** 🤵
-- **UI/UX Design** 📊 
-- **Unity things** 🖥️ 
-- **Blender modeling** 🛠️
-- **Translation work** 📋(German <-> Englisch)
-- **Codes things sometimes** 👨‍💻
+- 😎**Community Management**  
+- 🤵**Discord Administration** 
+- 📊**UI/UX Design**  
+- 🖥️**Unity things**  
+- 🛠️**Blender modeling** 
+- 📋**Translation work** (German <-> Englisch)
+- 👨‍💻**Codes things sometimes** 
 
 
 
