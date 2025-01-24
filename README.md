@@ -34,6 +34,7 @@ And various other things.
 ![1Password](https://img.shields.io/badge/-1Password-ffffff?style=flat-square&logo=1password&logoColor=000000)
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-3e3e3e?style=flat-square&logo=windowsterminal)
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-494949?style=flat-square&logo=sublimetext)
+![Rider](https://img.shields.io/badge/JetBrains-Rider-8A2BE2?style=flat-square&logo=rider)
 ![Signal](https://img.shields.io/badge/-Signal-3071f3?style=flat-square&logo=signal&logoColor=FFFFFF)  
 
 > [!NOTE]
